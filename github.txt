@@ -1,2 +1,1 @@
-This file was created on GitHub.
-to run git fetch i am adding this content on github.txt
+ I am learning GIT & GITHUB
